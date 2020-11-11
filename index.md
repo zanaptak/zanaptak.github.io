@@ -4,7 +4,7 @@
 
 ### [TypedCssClasses](https://github.com/zanaptak/TypedCssClasses)
 - A CSS class type provider for F# web development. Bring external stylesheet classes into your F# code as design-time discoverable compiler-verified properties.
-- [Sample/demo](https://github.com/zanaptak/TypedCssClasses/tree/master/sample/FableTailwind)
+- [Sample/demo](https://github.com/zanaptak/TypedCssClasses/tree/main/sample/FableTailwind)
 
 ### [IdGenerator](https://github.com/zanaptak/IdGenerator)
 - A unique id generator for .NET and Fable, using timestamp plus random data, with multiple strength and precision options. Flexible alternative to UUID/GUID.
